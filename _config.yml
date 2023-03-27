@@ -25,8 +25,9 @@ texture:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  https://github.com/criss150595
+    github:  criss150595
     linkedIn: in/cristhian-vaca-caballero
+    instagram: cristhian_vaca_caballero
 
     rss: rss
  
