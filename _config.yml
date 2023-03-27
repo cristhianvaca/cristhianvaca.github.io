@@ -23,7 +23,7 @@ texture:
   showPicker: false
   navigation:
     - title: Resume
-      url: "/resume.md"
+      url: "/resume"
     - title: Home
       url: "/#"
      
