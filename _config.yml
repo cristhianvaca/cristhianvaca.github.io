@@ -1,5 +1,5 @@
 title: Cristhian-Vaca-Caballero
-author: GitHub User
+author: CristhianVaca
 email: criss150595@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -30,7 +30,7 @@ texture:
      
   # generate social links in footer
   social_links:
-    github:  criss150595
+    github:  CristhianVaca
     linkedIn: in/cristhian-vaca-caballero
     rss: rss
  
