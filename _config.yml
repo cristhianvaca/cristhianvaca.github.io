@@ -23,7 +23,9 @@ texture:
   showPicker: false
   navigation:
     - title: Resume
-      url: "/resume"
+      url: "/resume.md"
+    - title: Home
+      url: "/#"
      
      
   # generate social links in footer
