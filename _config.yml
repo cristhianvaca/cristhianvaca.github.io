@@ -19,16 +19,14 @@ texture:
   tagline: Network Enginner
   date_format: "%b %-d, %Y"
   style: green
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
     twitter: thelehhman
     github:  criss150595
     linkedIn: in/cristhian-vaca-caballero
-    instagram: cristhian_vaca_caballero
-
     rss: rss
  
 
